@@ -12,3 +12,7 @@ For project implementation, I’ll be using these Python libraries:
 - [scikit-learn](http://scikit-learn.org/stable/) scikit-learn - machine learning in Python.
 - [matplotlib](http://matplotlib.org) is a famous library to plot graphs in Python.
 
+
+
+Report File: report.pdf
+Code File : absorp_ratio_project.ipynb

@@ -16,3 +16,6 @@ For project implementation, I’ll be using these Python libraries:
 
 Report File: report.pdf
 Code File : absorp_ratio_project.ipynb
+
+Proposal file: proposal.pdf
+Proposal review link : https://review.udacity.com/#!/reviews/1448807
